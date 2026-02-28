@@ -1,0 +1,5 @@
+// ALGLIB interpolation - replace with actual ALGLIB source
+namespace Alglib
+{
+    public static partial class interpolation { }
+}
